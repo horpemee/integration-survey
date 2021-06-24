@@ -1,0 +1,606 @@
+/*.root{
+ --primary: red;
+ --dark: black;
+}*/
+
+
+body{
+    background: rgb(53, 187, 53);
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    font-size: 16px;
+}
+#background{
+    background: white;
+    margin:  0 auto;
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 100px;
+    border-radius : 20px;
+    width: 600px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+     
+    
+}
+.container{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 1px;
+}
+.number p{
+    color:   gray;
+    font-size: 16px;
+
+    
+}    
+.number-button{
+    color: black;
+    font-size: 13px;
+    width: 35px;
+    height: 50px;
+    border: none;
+    text-align: center;
+    border-radius: 7px;
+    margin-right: 13px;
+    font-weight: 600;
+}
+.subunder{
+    display: flex;
+    font-weight: 700;
+}
+
+.picky p{
+    color: gray;
+    font-size: 16px;
+ 
+}
+.radio{
+    display: flex;
+} 
+.import{
+    width: 30px;
+    height: 30px;
+    background-color: gray;
+}
+.import1 {
+    color: black;
+    font-weight: 600;
+    margin-right: 20px; 
+    padding-left: 5px; 
+    padding-top: 5px
+}
+.import2 {
+    color: black;
+    font-weight: 600;   
+    padding-left: 5px; 
+    padding-top: 5px
+}
+
+.radio1{
+    display: flex;
+    padding-top: 10px;
+   
+}
+.radio2{
+    display: flex;
+    padding-top: 10px;
+}
+.emojis button{
+    color: grey;
+    border-radius: 7px; 
+    width: 58px; 
+    height: 53px; 
+    border: none;
+    margin-right: 53px;
+}
+.emojis img{
+    width: 28px;
+    
+}
+.emojis p{
+    color: gray;
+    font-size: 16px;
+}
+.selection p{
+    color: gray;
+    font-size: 16px;
+}
+.leisures {
+     border-radius: 5px; 
+     height: 40px;
+     width: 300px;
+     background-color: rgba(211, 211, 211, 0.712);
+     border: 2px; 
+    
+}
+
+.startups button{
+    color: grey;
+    border-radius: 7px; 
+    width: 105px; 
+    height: 50px; 
+    border: none;
+    margin-right: 30px;
+}
+.startups img{
+    width: 28px;
+}
+.start p{
+    text-align: center;
+    color: black;
+    font-weight: 600;
+    
+}
+.start{
+    display: grid;
+    grid-template-columns: repeat(5, auto);
+    text-align: center;
+}
+.lastSurvey p{
+    color: gray;
+    font-size: 16px;
+}
+
+#email{
+    width: 300px;
+    height: 40px;
+}
+.sub{
+    float: right;
+    margin-top: 40px;
+ 
+}
+.submit {
+    margin-right:40px;
+    background-color: rgba(211, 211, 211, 0.712);
+    border-radius: 4px;
+    color: black;
+    font-weight: 600;
+    border: 4px;
+    padding: 12px;
+    
+    
+}
+.submit2{
+    margin-right: 50px;
+    background-color: blue;
+    border: 4px;
+    padding: 12px; 
+    border-radius: 4px;
+    color: white;
+    font-weight: 600;
+}
+a{
+    text-decoration: none ;
+}
+a:hover {
+    color:rgb(175, 255, 255);
+}
+ 
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
